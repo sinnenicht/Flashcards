@@ -82,4 +82,4 @@ Authors
 License
 -------
 
-This project is licensed under the GNU General Public License v3.0. See the [LICENSE.md](https://github.com/sinnenicht/Flashcards/blob/master/LICENSE) for details.
+This project is licensed under the GNU General Public License v3.0. See the [LICENSE](https://github.com/sinnenicht/Flashcards/blob/master/LICENSE) for details.
