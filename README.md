@@ -84,7 +84,7 @@ Credits
 
 **Author:** Kate Jordan - [sinnenicht](https://github.com/sinnenicht/)
 
-This program is based on the Flashcards project on [Jet Brain Academy](https://hyperskill.org/projects/44?goal=7).
+This program is based on the Flashcards project on [Jet Brains Academy](https://hyperskill.org/projects/44?goal=7).
 
 License
 -------
