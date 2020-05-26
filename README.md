@@ -79,10 +79,12 @@ The card name and the number of times it has been missed will be displayed, and 
 
 Select this option to reset the number of mistakes for all currently loaded cards to zero.
 
-Authors
+Credits
 -------
 
-* **Kate Jordan** - [sinnenicht](https://github.com/sinnenicht/)
+**Author:** Kate Jordan - [sinnenicht](https://github.com/sinnenicht/)
+
+This program is based on the Flashcards project on [Jet Brain Academy](https://hyperskill.org/projects/44?goal=7).
 
 License
 -------
