@@ -53,6 +53,7 @@ Select this option to save all currently loaded cards to a file. The program wil
 If the specified file does not already exist, it will be created; otherwise, the existing file will be overwritten.
 
 **Ask:**
+
 Select this option to be quizzed on the currently loaded cards. Flashcards will ask how many cards it should ask the user about.
 This number should be input as an integer, i.e. `11`.
 Flashcards will then ask the user a randomly selected card the number of times entered. Cards may be repeated.
@@ -60,18 +61,22 @@ Flashcards will then ask the user a randomly selected card the number of times e
 Flashcards keeps track of how many times the user answers each card mistakenly.
 
 **Exit:**
+
 Select this option to exit the program.
 If Flashcards was run with the argument `-export`, all currently loaded cards will be saved to the file specified at start up.
 
 **Log:**
+
 Select this option to save a log of the current session. The program will ask for the file name. It should be a .txt file.
 If the specified file does not already exist, it will be created; otherwise, the existing file will be overwritten.
 
 **Hardest Card:**
+
 Select this option to find out which card has been missed the most times.
 The card name and the number of times it has been missed will be displayed, and then the user will be redirected to the main menu.
 
 **Reset Stats:**
+
 Select this option to reset the number of mistakes for all currently loaded cards to zero.
 
 Authors
